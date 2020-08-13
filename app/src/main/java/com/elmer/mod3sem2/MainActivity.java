@@ -15,8 +15,6 @@ import com.google.android.material.datepicker.MaterialDatePicker;
 import com.google.android.material.datepicker.MaterialPickerOnPositiveButtonClickListener;
 import com.google.android.material.textfield.TextInputEditText;
 
-import static com.google.android.material.datepicker.MaterialDatePicker.INPUT_MODE_CALENDAR;
-
 public class MainActivity extends AppCompatActivity {
 
     private TextInputEditText etNombre;
