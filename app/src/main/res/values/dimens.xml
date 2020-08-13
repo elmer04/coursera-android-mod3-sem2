@@ -1,0 +1,8 @@
+<resources>
+    <!-- Base application theme. -->
+    <dimen name="margin">10dp</dimen>
+    <dimen name="texto">20sp</dimen>
+    <dimen name="titulo">40sp</dimen>
+    <dimen name="boton">60dp</dimen>
+    <dimen name="editar">20dp</dimen>
+</resources>

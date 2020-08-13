@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Mod3Sem2</string>
+
+    <string name="date">Set date</string>
+
+    <string name="nombre">Nombre Completo</string>
+    <string name="fechaNac">Fecha Nacimiento</string>
+    <string name="telefono">Teléfono</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripción Contacto</string>
+    <string name="siguiente">Siguiente</string>
+
+    <string name="nac">Fecha Nacimiento:</string>
+    <string name="tel">Tel.</string>
+    <string name="mail">Email:</string>
+    <string name="desc">Descripción:</string>
+    <string name="titulo">Confirmar Datos</string>
+    <string name="editar">Editar Datos</string>
+
+    <string name="NOMBRE">NOMBRE</string>
+    <string name="FECHANAC">FECHANAC</string>
+    <string name="TELEF">TELEF</string>
+    <string name="EMAIL">EMAIL</string>
+    <string name="DESC">DESC</string>
+</resources>
